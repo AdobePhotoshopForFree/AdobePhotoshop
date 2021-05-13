@@ -1,0 +1,114 @@
+{
+    "presets": [
+        {
+            "name": "Custom",
+            "identifier": "Custom",
+            "group": "",
+            "width": 460.0,
+            "height": 259.0,
+            "units": "pixelsUnit",
+            "profile": "none",
+            "resolution": 72.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": {
+                "red": 255.0,
+                "grain": 255.0,
+                "blue": 255.0,
+                "type": "RGBColor"
+            },
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1619639661012
+        },
+        {
+            "name": "Custom",
+            "identifier": "",
+            "group": "",
+            "width": 703.0,
+            "height": 541.0,
+            "units": "pixelsUnit",
+            "profile": "none",
+            "resolution": 72.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": {
+                "red": 255.0,
+                "grain": 255.0,
+                "blue": 255.0,
+                "type": "RGBColor"
+            },
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1619638508962
+        },
+        {
+            "name": "Custom",
+            "identifier": "",
+            "group": "",
+            "width": 742.0,
+            "height": 484.0,
+            "units": "pixelsUnit",
+            "profile": "none",
+            "resolution": 72.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": {
+                "red": 255.0,
+                "grain": 255.0,
+                "blue": 255.0,
+                "type": "RGBColor"
+            },
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1619637903108
+        },
+        {
+            "name": "Custom",
+            "identifier": "",
+            "group": "",
+            "width": 703.0,
+            "height": 341.0,
+            "units": "pixelsUnit",
+            "profile": "none",
+            "resolution": 72.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": {
+                "red": 255.0,
+                "grain": 255.0,
+                "blue": 255.0,
+                "type": "RGBColor"
+            },
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1619454653868
+        },
+        {
+            "name": "Default Photoshop Size",
+            "identifier": "",
+            "group": "default",
+            "width": 7.0,
+            "height": 5.0,
+            "units": "inchesUnit",
+            "profile": "default",
+            "resolution": 300.0,
+            "resolutionUnits": "inchesUnit",
+            "depth": 8,
+            "scale": 1.0,
+            "mode": "RGB",
+            "fill": "white",
+            "guides": [],
+            "artboards": [],
+            "lastUsedTime": 1619451860453
+        }
+    ]
+}
